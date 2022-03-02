@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $HOME
+echo /0x00-shell_basics
